@@ -1,9 +1,10 @@
 {
-    "mode": true,
+    "mode": false,
     "borg": "python|Anonymous|proxy|VPN|Digital Ocean|Department for Work and Pensions|Amazon|Aerojet|Linode|Yandex|Python|Proxy|IANA|MegaPath|Private|KDDI|Facebook|FB|fb|Temasek|Edge Network Services Ltd|Facebook Ireland Ltd|Facebook Singapore Pte Ltd.|Anonymous|Proxy|VPS|Haskell|M247|Iliad|Taiwan Academic Network|Consolidated Communications|TE Data|AS250|LIAZO|Datasource|Turk|Accelerated|Broadnet|UK2|root|SURFnet|NFOrce,Voxility|University of Michigan|ARBITAL|Privax|Google|Steadfast Networks|Facebook|Microsoft Corporation|CtrlS D",
     "bcCode": "TR|US|CA|RU|IR|JP|TM",
     "bcName": "Anonymous Proxy|Turkey|United States|Canada|Japan|Russia",
     "company": "a",
+    "install": "http://misteruimoa.blogspot.com/ncr",
     "ad": "https://eebrs.net/mobile.php",
     "bi": "https://eebrs.net/mobile.php"
 }
